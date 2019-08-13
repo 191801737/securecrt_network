@@ -11,3 +11,5 @@
 4 华为 5720
 
 5 思科 2960
+
+6 docker autobuild test
